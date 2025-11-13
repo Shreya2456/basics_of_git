@@ -1,1 +1,4 @@
 this is the first file of my repository
+here i m going to teach u the git from the very basics 
+we will learn new things and interesting one
+
