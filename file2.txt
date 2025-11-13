@@ -1,0 +1,1 @@
+this repository tells us about the working and basics of git
