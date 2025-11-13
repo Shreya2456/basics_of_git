@@ -1,1 +1,4 @@
 this repository tells us about the working and basics of git
+lets perfome some more operations on our git repository
+are u interested to learn ??? yes lets start a new journey
+
